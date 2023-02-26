@@ -1,0 +1,27 @@
+
+
+body {
+    font-family: system-ui;
+
+    background: #000;
+    color: #fff;
+}
+
+header {
+    text-align: center;
+}
+
+.app {
+    width: 980px;
+    margin: 0 auto;
+}
+
+.parent {
+    display: flex;
+    justify-content: center;
+}
+
+.child {
+    flex: 1;
+
+}
